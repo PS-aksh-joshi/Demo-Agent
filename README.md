@@ -14,11 +14,11 @@ agent_fun.py → AI agent with ReAct loop and JSON parsing
 server_fun.py → FastMCP tool server exposing weather, books, jokes, etc.
 
 **Available Tools**
-• get_weather(latitude, longitude) – Fetches real-time weather via Open-Meteo API.
-• book_recs(topic, limit) – Returns book suggestions via Open Library.
-• random_joke() – Safe single-line joke from JokeAPI.
-• random_dog() – Random dog image URL.
-• trivia() – Multiple-choice trivia question.
+1. get_weather(latitude, longitude) – Fetches real-time weather via Open-Meteo API.
+2. book_recs(topic, limit) – Returns book suggestions via Open Library.
+3. random_joke() – Safe single-line joke from JokeAPI.
+4. random_dog() – Random dog image URL.
+5. trivia() – Multiple-choice trivia question.
 
 **Setup Instructions**
 1. Install dependencies:
